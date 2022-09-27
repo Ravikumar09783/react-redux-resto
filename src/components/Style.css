@@ -1,0 +1,10 @@
+.smallclose:hover{
+    background-color: rgb(22, 22, 21);
+    color: white;
+    border-radius: 5px;
+    
+}
+
+.card-box{
+    flex-wrap: wrap;
+}
